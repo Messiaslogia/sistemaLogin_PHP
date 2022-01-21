@@ -19,6 +19,7 @@ form input{
     border: 0;
     border-radius: 10px;
     padding: 10px;
+    margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
     color: #c203c2;
@@ -56,14 +57,5 @@ form .btn-login{
     border-style: inset;    
 }
 
-.msg-error{
-    color: red;
-    display: flex;
-    justify-content: center;
-}
 
-.msg-error i{
-    font-size: 18px;
-    color: red;
-}
 
